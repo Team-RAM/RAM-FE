@@ -1,0 +1,10 @@
+{
+	"customEditionEnabled": true,
+	"customEdition": "Randomly Added Mods - Fabric Edition",
+	"customSplashEnabled": true,
+	"removeSplash": true,
+	"customSplash": [
+		"Do not day drink and run a Modpack Team..."
+	],
+	"removeMinecraftLogo": true
+}
