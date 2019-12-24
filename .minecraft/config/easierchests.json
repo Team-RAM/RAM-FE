@@ -1,0 +1,20 @@
+{
+  "Transparent buttons": {
+    "key": "Transparent buttons",
+    "toolTip": "Make buttons transparent unless mouse hovers over them",
+    "value": true,
+    "defaultValue": true
+  },
+  "Allow extra large chests": {
+    "key": "Allow extra large chests",
+    "toolTip": "Allow chests to have more than 54 entries",
+    "value": false,
+    "defaultValue": false
+  },
+  "Half button size": {
+    "key": "Half button size",
+    "toolTip": "Half button size unless mouse hovers over them",
+    "value": false,
+    "defaultValue": false
+  }
+}
