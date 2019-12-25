@@ -1,0 +1,5 @@
+# ignore private configs like fblink
+.minecraft/config/fblink.json
+
+# ignore default git files
+.git
