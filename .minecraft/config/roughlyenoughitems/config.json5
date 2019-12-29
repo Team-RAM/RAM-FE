@@ -3,7 +3,7 @@
 		"favorites": [ 
 ],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		// Declares whether REI is visible.
 		"overlayVisible": true,
 		"favoritesEnabled": true,
@@ -13,9 +13,9 @@
 		// The ordering of the items on the item panel.
 		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the appearance of REI windows.
-		"darkTheme": false,
+		"darkTheme": true,
 		// The ordering of the items on the item panel.
-		"recipeScreenType": "UNSET",
+		"recipeScreenType": "VILLAGER",
 		// Declares the position of the search field.
 		"searchFieldLocation": "CENTER",
 		// Declares the position of the item list panel.
@@ -32,18 +32,20 @@
 		"appendModNames": true,
 		// Declares how the scrollbar in villager screen should act.
 		"villagerScreenPermanentScrollBar": false,
-		// Declares whether if entry list widget is scrolled.
+		// Declares whether entry list widget is scrolled.
 		"scrollingEntryListWidget": false,
 		"snapToRows": false,
 		"displayFavoritesOnTheLeft": true,
-		"displayFavoritesTooltip": true
+		"displayFavoritesTooltip": true,
+		// Declares whether favorites will be searched.
+		"searchFavorites": true
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.
 		"enableCraftableOnlyButton": true,
 		"toastDisplayedOnCopyIdentifier": true,
 		// Declares whether the utils buttons are shown.
-		"showUtilsButtons": false,
+		"showUtilsButtons": true,
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether REI should fix closing container with tab.
@@ -65,7 +67,7 @@
 	},
 	"performance": { 
 		// Whether REI should render entry's enchantment glint
-		"renderEntryEnchantmentGlint": true,
+		"renderEntryEnchantmentGlint": false,
 		"fastEntryRendering": false
 	}
 }

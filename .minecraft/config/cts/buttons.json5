@@ -2,9 +2,9 @@
 	"buttons": {
 		"modmenu.modlist": {
 			// X offset from center
-			"x": 2,
+			"x": 3,
 			// Y offset from top
-			"y": 72,
+			"y": 284,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -13,24 +13,11 @@
 			// Not currently implemented
 			"textureName": ""
 		},
-		"ram.reddit": {
-			// X offset from center
-			"x": 2,
-			// Y offset from top
-			"y": 48,
-			"width": 100,
-			"height": 20,
-			"text": "Reddit",
-			"type": "url",
-			"parameter": "https://www.reddit.com/r/TeamRam/",
-			// Not currently implemented
-			"textureName": ""
-		},
 		"minecraft.realms": {
 			// X offset from center
-			"x": 0,
+			"x": 1,
 			// Y offset from top
-			"y": -20,
+			"y": 191,
 			"width": 0,
 			"height": 0,
 			"text": "",
@@ -41,9 +28,9 @@
 		},
 		"minecraft.language": {
 			// X offset from center
-			"x": -102,
+			"x": -101,
 			// Y offset from top
-			"y": 73,
+			"y": 284,
 			"width": 100,
 			"height": 20,
 			"text": "Languages",
@@ -54,9 +41,9 @@
 		},
 		"minecraft.singleplayer": {
 			// X offset from center
-			"x": -102,
+			"x": -101,
 			// Y offset from top
-			"y": 0,
+			"y": 212,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -67,9 +54,9 @@
 		},
 		"minecraft.multiplayer": {
 			// X offset from center
-			"x": -102,
+			"x": -101,
 			// Y offset from top
-			"y": 24,
+			"y": 236,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -80,9 +67,9 @@
 		},
 		"ram.discord": {
 			// X offset from center
-			"x": -102,
+			"x": -101,
 			// Y offset from top
-			"y": 48,
+			"y": 260,
 			"width": 100,
 			"height": 20,
 			"text": "Discord",
@@ -91,11 +78,24 @@
 			// Not currently implemented
 			"textureName": ""
 		},
+		"ram.reddit": {
+			// X offset from center
+			"x": 3,
+			// Y offset from top
+			"y": 260,
+			"width": 100,
+			"height": 20,
+			"text": "Reddit",
+			"type": "url",
+			"parameter": "https://www.reddit.com/r/TeamRam/",
+			// Not currently implemented
+			"textureName": ""
+		},
 		"minecraft.quit": {
 			// X offset from center
-			"x": 2,
+			"x": 3,
 			// Y offset from top
-			"y": 73,
+			"y": 307,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -106,9 +106,9 @@
 		},
 		"minecraft.options": {
 			// X offset from center
-			"x": -102,
+			"x": -101,
 			// Y offset from top
-			"y": 72,
+			"y": 307,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -119,9 +119,9 @@
 		},
 		"minecraft.accessibility": {
 			// X offset from center
-			"x": 0,
+			"x": 1,
 			// Y offset from top
-			"y": -20,
+			"y": 201,
 			"width": 0,
 			"height": 0,
 			"text": "",

@@ -5,7 +5,7 @@
     "allowBossSpawns": false,
     "countCageBornForShard": false,
     "requireOwnerOnline": false,
-    "requireRedstoneSignal": false,
+    "requireRedstoneSignal": true,
     "allowShardCombination": true,
     "spawnCap": 32
   },
@@ -16,12 +16,15 @@
     "entities": {
       "minecraft:pillager": true,
       "minecraft:giant": true,
+      "mooblooms:wither_rose_moobloom": true,
+      "mooblooms:poppy_moobloom": true,
       "minecraft:trader_llama": true,
       "minecraft:guardian": true,
       "minecraft:parrot": true,
       "minecraft:wither": false,
       "minecraft:horse": true,
       "minecraft:polar_bear": true,
+      "mooblooms:allium_moobloom": true,
       "minecraft:bat": true,
       "minecraft:wandering_trader": true,
       "minecraft:phantom": true,
@@ -35,6 +38,7 @@
       "minecraft:ender_dragon": false,
       "minecraft:cave_spider": true,
       "minecraft:enderman": true,
+      "mooblooms:cornflower_moobloom": true,
       "minecraft:dolphin": true,
       "minecraft:vex": true,
       "minecraft:blaze": true,
@@ -57,14 +61,18 @@
       "minecraft:bee": true,
       "minecraft:evoker": true,
       "minecraft:slime": true,
+      "mooblooms:dandelion_moobloom": true,
       "minecraft:cat": true,
       "minecraft:pufferfish": true,
       "minecraft:illusioner": true,
       "minecraft:salmon": true,
       "minecraft:fox": true,
       "minecraft:tropical_fish": true,
+      "mooblooms:suncower": true,
+      "mooblooms:bambmoo": true,
       "minecraft:shulker": true,
       "minecraft:mooshroom": true,
+      "mooblooms:oxeye_daisy_moobloom": true,
       "minecraft:ocelot": true,
       "minecraft:silverfish": true,
       "minecraft:stray": true,
@@ -75,7 +83,8 @@
       "minecraft:wolf": true,
       "minecraft:panda": true,
       "minecraft:zombie_villager": true,
-      "minecraft:rabbit": true
+      "minecraft:rabbit": true,
+      "mooblooms:blue_orchid_moobloom": true
     }
   }
 }
