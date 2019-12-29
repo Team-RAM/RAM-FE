@@ -4,7 +4,7 @@
 			// X offset from center
 			"x": 3,
 			// Y offset from top
-			"y": 284,
+			"y": 283,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -30,7 +30,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 284,
+			"y": 283,
 			"width": 100,
 			"height": 20,
 			"text": "Languages",
@@ -43,7 +43,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 212,
+			"y": 211,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -56,7 +56,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 236,
+			"y": 235,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -69,7 +69,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 260,
+			"y": 259,
 			"width": 100,
 			"height": 20,
 			"text": "Discord",
@@ -82,7 +82,7 @@
 			// X offset from center
 			"x": 3,
 			// Y offset from top
-			"y": 260,
+			"y": 259,
 			"width": 100,
 			"height": 20,
 			"text": "Reddit",
