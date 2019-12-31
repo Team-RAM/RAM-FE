@@ -10,6 +10,10 @@
             "link_text": "Youtube Video"
         },
         {
+            "type": "text",
+            "text": "The chest attached to the left can be any storage block that's similar to a chest or barrel. For shulker boxes, only non-colored ones are supported."
+        },
+        {
             "type": "multiblock",
             "name": "Dimensional Quarry",
             "multiblock": {
@@ -18,12 +22,13 @@
                     "E": "minecraft:dragon_egg",
                     "G": "minecraft:glass",
                     "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:low_voltage_su"
+                    "P": "techreborn:low_voltage_su",
+                    "C": "minecraft:barrel[facing=west]"
                 },
                 "pattern": [
                     ["   ", " E ", "   "],
                     ["   ", " G ", "   "],
-                    ["   ", " 0P", "   "]
+                    ["   ", "C0P", "   "]
                 ]
             },
             "text":"The power supply goes on the right of the item frame."
@@ -37,33 +42,38 @@
                     "E": "minecraft:dragon_egg",
                     "G": "minecraft:glass",
                     "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:medium_voltage_su"
+                    "P": "techreborn:medium_voltage_su",
+                    "C": "minecraft:chest[facing=west]"
                 },
                 "pattern": [
                     ["   ", " E ", "   "],
                     ["   ", " G ", "   "],
-                    ["   ", " 0P", "   "]
-                ]
-            },
-            "text":"The power supply goes on the right of the item frame."
-        },
-        {
-            "type": "multiblock",
-            "name": "Dimensional Quarry",
-            "multiblock": {
-                "mapping": {
-                    " ": "AIR",
-                    "E": "minecraft:dragon_egg",
-                    "G": "minecraft:glass",
-                    "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:high_voltage_su"
-                },
-                "pattern": [
-                    ["   ", " E ", "   "],
-                    ["   ", " G ", "   "],
-                    ["   ", " 0P", "   "]
+                    ["   ", "C0P", "   "]
                 ]
             }
+        },
+        {
+            "type": "multiblock",
+            "name": "Dimensional Quarry",
+            "multiblock": {
+                "mapping": {
+                    " ": "AIR",
+                    "E": "minecraft:dragon_egg",
+                    "G": "minecraft:glass",
+                    "0": "minecraft:dropper[facing=up]",
+                    "P": "techreborn:high_voltage_su",
+                    "C": "expandedstorage:iron_chest[facing=west]"
+                },
+                "pattern": [
+                    ["   ", " E ", "   "],
+                    ["   ", " G ", "   "],
+                    ["   ", "C0P", "   "]
+                ]
+            },
+            "text":"The power supply goes on the right of the item frame."
+        },
+        {
+            "type": "empty"
         },
         {
             "type": "text",

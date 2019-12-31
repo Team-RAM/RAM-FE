@@ -150,8 +150,8 @@
     {
       "project_id": 336554,
       "project_name": "MobZ",
-      "file_id": 2841266,
-      "file_name": "MobZ+1.8.2.jar"
+      "file_id": 2851753,
+      "file_name": "MobZ+1.8.3.jar"
     },
     {
       "project_id": 315749,
@@ -258,8 +258,8 @@
     {
       "project_id": 353164,
       "project_name": "Elytra Swap",
-      "file_id": 2850194,
-      "file_name": "elytra_swap-1.1.0-1.15.1.jar"
+      "file_id": 2851718,
+      "file_name": "elytra_swap-1.2.1-1.15.1.jar"
     },
     {
       "project_id": 308702,
@@ -324,14 +324,14 @@
     {
       "project_id": 323710,
       "project_name": "LibCapableData (LibCD)",
-      "file_id": 2837612,
-      "file_name": "libcd-2.0.0+1.15.jar"
+      "file_id": 2851504,
+      "file_name": "libcd-2.1.1+1.15.jar"
     },
     {
       "project_id": 354940,
       "project_name": "Shulker Charm",
-      "file_id": 2845005,
-      "file_name": "shulkercharm-1.0.1+1.15.jar"
+      "file_id": 2851697,
+      "file_name": "shulkercharm-1.1.0+1.15.jar"
     },
     {
       "project_id": 318163,
@@ -433,7 +433,8 @@
       "project_id": 353890,
       "project_name": "Not Enough Crashes",
       "file_id": 2849083,
-      "file_name": "notenoughcrashes-1.1.5+1.15.1.jar"
+      "file_name": "notenoughcrashes-1.1.5+1.15.1.jar",
+      "disabled": true
     },
     {
       "project_id": 350767,
@@ -568,10 +569,16 @@
       "file_name": "appleskin-mc1.15-fabric-1.0.8.jar"
     },
     {
+      "project_id": 356244,
+      "project_name": "Grass Kiss",
+      "file_id": 2850752,
+      "file_name": "grass_kiss-0.1.0.jar"
+    },
+    {
       "project_id": 308777,
       "project_name": "Traverse (Fabric)",
-      "file_id": 2850964,
-      "file_name": "traverse-2.1.6+build.13.jar"
+      "file_id": 2852312,
+      "file_name": "traverse-2.1.7+build.15.jar"
     },
     {
       "project_id": 354047,
@@ -588,8 +595,8 @@
     {
       "project_id": 341888,
       "project_name": "Diggus Maximus",
-      "file_id": 2849184,
-      "file_name": "diggusmaximus-1.2.4.jar"
+      "file_id": 2851688,
+      "file_name": "diggusmaximus-1.2.5.jar"
     },
     {
       "project_id": 320072,

@@ -12,4 +12,4 @@ var dispenserDict = {
     's': 'minecraft:string',
     'd': 'minecraft:dropper'
 }
-RecipeTweaker.addDictShaped(dispenser, dispenserDict, "minecraft:dispenser")
+RecipeTweaker.addDictShaped(dispenserPattern, dispenserDict, "minecraft:dispenser")
