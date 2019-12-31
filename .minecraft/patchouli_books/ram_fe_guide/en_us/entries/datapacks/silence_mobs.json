@@ -1,0 +1,13 @@
+{
+    "name": "Silence Mobs",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Silence Mobs allows you to rename entities to make them silent. Simply rename them 'silence me' with a name tag.",
+            "url": "https://www.youtube.com/watch?v=lfcwKXhjC9Y&feature=youtu.be&t=487",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

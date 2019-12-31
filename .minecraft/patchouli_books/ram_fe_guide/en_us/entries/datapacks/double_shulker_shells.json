@@ -1,0 +1,13 @@
+{
+    "name": "Double Shulker Shells",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Double Shulker Shells modifies shulkers to force them to always drop 2 shulker boxes.",
+            "url": "https://www.youtube.com/watch?v=lfcwKXhjC9Y&feature=youtu.be&t=320",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

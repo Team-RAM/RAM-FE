@@ -1,0 +1,13 @@
+{
+    "name": "More Mob Heads",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "More Mob Heads adds a chance for vanilla mobs to drop their heads when killed.",
+            "url": "https://www.youtube.com/watch?v=C04fwclOdQo",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

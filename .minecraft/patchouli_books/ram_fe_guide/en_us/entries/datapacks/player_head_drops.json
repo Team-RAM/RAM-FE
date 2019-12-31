@@ -1,0 +1,13 @@
+{
+    "name": "Player Head Drops",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Player Head Drops makes players drop their heads when killed by another player.",
+            "url": "https://www.youtube.com/watch?v=Usb1mEIK_wQ",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	// Disable vanilla tools that have a Suludom equivalent (except for wood tools & leather armor)
+	"disableVanillaTools": true,
+	// Replace vanilla equipment in loot tables with Suludom equivalents
+	"tweakLootTables": true
+}

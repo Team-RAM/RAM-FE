@@ -1,0 +1,13 @@
+{
+    "name": "Bat Membranes",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Bat Membranes allows bats to occasionally drop phantom membranes too, though they are quite hard to kill.",
+            "url": "https://www.youtube.com/watch?v=RYZ5o5H74Mg",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Dimensional Quarry",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Dimensional Quarry allows you to automatically generate resources using a small structure as shown on the next page. In addition to the structure, attached to the dropper should be an item frame with a diamond pickaxe inside, affected by silk touch. TODO: Add support for modded ores/materials.",
+            "url": "https://youtu.be/WCi7hYdlfIo",
+            "link_text": "Youtube Video"
+        },
+        {
+            "type": "multiblock",
+            "name": "Dimensional Quarry",
+            "multiblock": {
+                "mapping": {
+                    " ": "AIR",
+                    "E": "minecraft:dragon_egg",
+                    "G": "minecraft:glass",
+                    "0": "minecraft:dropper[facing=up]",
+                    "P": "techreborn:low_voltage_su"
+                },
+                "pattern": [
+                    ["   ", " E ", "   "],
+                    ["   ", " G ", "   "],
+                    ["   ", " 0P", "   "]
+                ]
+            },
+            "text":"The power supply goes on the right of the item frame."
+        },
+        {
+            "type": "multiblock",
+            "name": "Dimensional Quarry",
+            "multiblock": {
+                "mapping": {
+                    " ": "AIR",
+                    "E": "minecraft:dragon_egg",
+                    "G": "minecraft:glass",
+                    "0": "minecraft:dropper[facing=up]",
+                    "P": "techreborn:medium_voltage_su"
+                },
+                "pattern": [
+                    ["   ", " E ", "   "],
+                    ["   ", " G ", "   "],
+                    ["   ", " 0P", "   "]
+                ]
+            },
+            "text":"The power supply goes on the right of the item frame."
+        },
+        {
+            "type": "multiblock",
+            "name": "Dimensional Quarry",
+            "multiblock": {
+                "mapping": {
+                    " ": "AIR",
+                    "E": "minecraft:dragon_egg",
+                    "G": "minecraft:glass",
+                    "0": "minecraft:dropper[facing=up]",
+                    "P": "techreborn:high_voltage_su"
+                },
+                "pattern": [
+                    ["   ", " E ", "   "],
+                    ["   ", " G ", "   "],
+                    ["   ", " 0P", "   "]
+                ]
+            }
+        },
+        {
+            "type": "text",
+            "text": "Lenses are a huge part of getting the ores you want. On the following pages are the blocks used for lenses and what ores they target."
+        }
+    ]
+}
