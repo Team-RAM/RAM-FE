@@ -13,6 +13,9 @@
 .minecraft/server-resource-packs/
 .minecraft/saves/
 .minecraft/*.json
+.minecraft/datapacks/cotton_generated/
 *.txt
 *.disabled
 *.png
+
+
