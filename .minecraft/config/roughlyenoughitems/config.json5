@@ -7,7 +7,35 @@
 		// Declares whether REI is visible.
 		"overlayVisible": true,
 		"favoritesEnabled": true,
-		"favoriteKeybind": "key.keyboard.a"
+		"recipeKeybind": { 
+			"keyCode": "key.keyboard.r",
+			"modifier": 0
+		},
+		"usageKeybind": { 
+			"keyCode": "key.keyboard.u",
+			"modifier": 0
+		},
+		"hideKeybind": { 
+			"keyCode": "key.keyboard.o",
+			"modifier": 2
+		},
+		"previousPageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"nextPageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"focusSearchFieldKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"copyRecipeIdentifierKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"favoriteKeybind": null
 	},
 	"appearance": { 
 		// The ordering of the items on the item panel.
@@ -38,7 +66,8 @@
 		"displayFavoritesOnTheLeft": true,
 		"displayFavoritesTooltip": true,
 		// Declares whether favorites will be searched.
-		"searchFavorites": true
+		"searchFavorites": true,
+		"entrySize": 1.0
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.
