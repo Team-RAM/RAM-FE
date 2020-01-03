@@ -6,15 +6,13 @@
     "cacheHashcodeCalculations": true
   },
   "physics": {
-    "useOptimizedShapeVertexListMerging": true,
-    "useAllocationPoolingForVertexListMerging": true,
-    "alwaysUnpackBlockShapes": true,
+    "useSweptCollisionSearch": true,
+    "useFastShapeComparisons": true,
     "useFastWorldBorderChecks": true,
-    "useSimpleEntityCollisionTesting": false,
-    "useFastShapeComparisons": true
+    "useSimpleEntityCollisionTesting": true,
+    "alwaysUnpackBlockShapes": true
   },
   "entity": {
-    "allowSkippingEntityMovementTicks": false,
     "useOptimizedDataTracker": true,
     "avoidLockingDataTracker": false,
     "useOptimizedAIGoalSelection": true,
@@ -36,12 +34,13 @@
     "useSmallTagArrayOptimization": true
   },
   "region": {
-    "useLargeIO": true,
-    "useMemoryMappedFileRegions": true,
-    "useFastNBTSerialization": false,
     "reduceSessionLockChecks": true
   },
   "redstone": {
-    "useRedstoneDustOptimizations": false
+    "useRedstoneDustOptimizations": true
+  },
+  "debug": {
+    "allowTracerVisualization": false,
+    "traceSweptCollisions": false
   }
 }

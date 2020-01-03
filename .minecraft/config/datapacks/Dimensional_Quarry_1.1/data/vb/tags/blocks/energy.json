@@ -3,6 +3,8 @@
   "values": [
     "techreborn:low_voltage_su",
     "techreborn:medium_voltage_su",
-    "techreborn:high_voltage_su"
+    "techreborn:high_voltage_su",
+    "techreborn:adjustable_su",
+    "techreborn:interdimensional_su"
   ]
 }

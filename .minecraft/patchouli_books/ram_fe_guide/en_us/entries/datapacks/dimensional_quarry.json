@@ -22,13 +22,13 @@
                     "E": "minecraft:dragon_egg",
                     "G": "minecraft:glass",
                     "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:low_voltage_su",
-                    "C": "minecraft:barrel[facing=west]"
+                    "P": "techreborn:low_voltage_su[facing=south]",
+                    "C": "minecraft:barrel[facing=east]"
                 },
                 "pattern": [
                     ["   ", " E ", "   "],
                     ["   ", " G ", "   "],
-                    ["   ", "C0P", "   "]
+                    ["   ", "P0C", "   "]
                 ]
             },
             "text":"The power supply goes on the right of the item frame."
@@ -42,13 +42,13 @@
                     "E": "minecraft:dragon_egg",
                     "G": "minecraft:glass",
                     "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:medium_voltage_su",
-                    "C": "minecraft:chest[facing=west]"
+                    "P": "techreborn:medium_voltage_su[facing=south]",
+                    "C": "minecraft:chest[facing=east]"
                 },
                 "pattern": [
                     ["   ", " E ", "   "],
                     ["   ", " G ", "   "],
-                    ["   ", "C0P", "   "]
+                    ["   ", "P0C", "   "]
                 ]
             }
         },
@@ -61,13 +61,13 @@
                     "E": "minecraft:dragon_egg",
                     "G": "minecraft:glass",
                     "0": "minecraft:dropper[facing=up]",
-                    "P": "techreborn:high_voltage_su",
-                    "C": "expandedstorage:iron_chest[facing=west]"
+                    "P": "techreborn:high_voltage_su[facing=south]",
+                    "C": "expandedstorage:iron_chest[facing=east]"
                 },
                 "pattern": [
                     ["   ", " E ", "   "],
                     ["   ", " G ", "   "],
-                    ["   ", "C0P", "   "]
+                    ["   ", "P0C", "   "]
                 ]
             },
             "text":"The power supply goes on the right of the item frame."

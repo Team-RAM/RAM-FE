@@ -4,3 +4,5 @@ execute at @s store result score @s miner_energy run data get block ^1 ^ ^-1 Pow
 execute at @s if block ^1 ^ ^-1 techreborn:low_voltage_su if score @s miner_energy matches 2000..40000 run function vb:dimensionalquarry/trigger
 execute at @s if block ^1 ^ ^-1 techreborn:medium_voltage_su if score @s miner_energy matches 2000..300000 run function vb:dimensionalquarry/trigger
 execute at @s if block ^1 ^ ^-1 techreborn:high_voltage_su if score @s miner_energy matches 2000..10000000 run function vb:dimensionalquarry/trigger
+execute at @s if block ^1 ^ ^-1 techreborn:adjustable_su if score @s miner_energy matches 2000..100000000 run function vb:dimensionalquarry/trigger
+execute at @s if block ^1 ^ ^-1 techreborn:interdimensional_su if score @s miner_energy matches 2000..100000000 run function vb:dimensionalquarry/trigger

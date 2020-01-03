@@ -28,7 +28,6 @@
     "expandedstorage:old_iron_chest",
     "expandedstorage:old_gold_chest",
     "expandedstorage:old_diamond_chest",
-    "expandedstorage:old_obsidian_chest",
-    "linkedstorage:storageblock"
+    "expandedstorage:old_obsidian_chest"
   ]
 }

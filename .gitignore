@@ -1,5 +1,3 @@
-.minecraft/mamiyaotaru/voxelmap/cache/
-.minecraft/mamiyaotaru/voxelmap/cache/**/*.zip
 .minecraft/options.txt
 .minecraft/.fabric/
 .minecraft/.mixin.out/
@@ -17,5 +15,7 @@
 *.txt
 *.disabled
 *.png
-
+/.minecraft/mods/mamiyaotaru/voxelmap/cache/
+natives/
+.idea/
 
