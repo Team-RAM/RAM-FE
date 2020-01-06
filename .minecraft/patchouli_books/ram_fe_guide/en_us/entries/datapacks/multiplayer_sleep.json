@@ -1,0 +1,13 @@
+{
+    "name": "Multiplayer Sleep",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Multiplayer Sleep makes it so only one person has to sleep to pass the night.",
+            "url": "https://www.youtube.com/watch?v=lfcwKXhjC9Y&feature=youtu.be&t=437",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

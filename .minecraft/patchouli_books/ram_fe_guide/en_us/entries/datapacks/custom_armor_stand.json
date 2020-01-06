@@ -1,0 +1,17 @@
+{
+    "name": "Custom Armor Stands",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "This datapack allows you to fully customize armor stands without command blocks! Simply craft a Book and Quill with an armor stand to obtain it.",
+            "url": "https://www.youtube.com/watch?v=A25hSBnM7dM",
+            "link_text": "Youtube Video"
+        },
+        {
+            "type": "crafting",
+            "recipe": "ram_fe:tweaked/written_book-7"
+        }
+    ]
+}

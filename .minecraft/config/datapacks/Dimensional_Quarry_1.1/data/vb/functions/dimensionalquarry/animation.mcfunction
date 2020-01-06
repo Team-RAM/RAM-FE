@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_pickaxe"}}] if block ^ ^ ^-1 minecraft:dropper[facing=up,triggered=false] if block ^ ^1 ^-1 #vb:foci if block ^ ^2 ^-1 minecraft:dragon_egg if block ^ ^1 ^-1 #vb:foci if block ^-1 ^ ^-1 #vb:storage if block ^1 ^ ^-1 #vb:energy run particle minecraft:portal ^ ^0.5 ^-0.5 0.135 0.135 0.135 0 1

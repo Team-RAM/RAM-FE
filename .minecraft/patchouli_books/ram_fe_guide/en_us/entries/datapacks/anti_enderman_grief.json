@@ -1,0 +1,13 @@
+{
+    "name": "Anti Enderman Grief",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "Anti Enderman Grief prevents endermen from picking up your precious blocks.",
+            "url": "https://www.youtube.com/watch?v=lfcwKXhjC9Y&feature=youtu.be&t=241",
+            "link_text": "Youtube Video"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "minecraft:barrel",
+    "minecraft:shulker_box",
+    "blockus:oak_barrel",
+    "blockus:birch_barrel",
+    "blockus:jungle_barrel",
+    "blockus:acacia_barrel",
+    "blockus:dark_oak_barrel",
+    "blockus:bamboo_barrel",
+    "ironbarrels2:iron_barrel",
+    "ironbarrels2:diamond_barrel",
+    "ironbarrels2:gold_barrel",
+    "ironbarrels2:copper_barrel",
+    "ironbarrels2:silver_barrel",
+    "ironbarrels2:obsidian_barrel",
+    "expandedstorage:wood_chest",
+    "expandedstorage:pumpkin_chest",
+    "expandedstorage:christmas_chest",
+    "expandedstorage:iron_chest",
+    "expandedstorage:gold_chest",
+    "expandedstorage:diamond_chest",
+    "expandedstorage:obsidian_chest",
+    "expandedstorage:old_wood_chest",
+    "expandedstorage:old_iron_chest",
+    "expandedstorage:old_gold_chest",
+    "expandedstorage:old_diamond_chest",
+    "expandedstorage:old_obsidian_chest"
+  ]
+}
