@@ -1,0 +1,11 @@
+{
+    "name": "Requiem",
+    "icon": "minecraft:rotten_flesh",
+    "category": "modguides",
+    "pages": [
+        {
+            "type": "text",
+            "text": "TODO"
+        }
+    ]
+}
