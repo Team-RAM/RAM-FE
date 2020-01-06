@@ -11,6 +11,7 @@
 .minecraft/server-resource-packs/
 .minecraft/saves/
 .minecraft/*.json
+.minecraft/servers.dat
 .minecraft/datapacks/cotton_generated/
 *.txt
 *.disabled
@@ -18,4 +19,6 @@
 /.minecraft/mods/mamiyaotaru/voxelmap/cache/
 natives/
 .idea/
+
+
 
