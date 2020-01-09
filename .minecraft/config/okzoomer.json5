@@ -1,8 +1,10 @@
 { 
 	// Enables Smooth Camera while zooming, interferes with Cinematic Mode but it shouldn't be anything negative.
 	"smoothCamera": true,
+	// While enabled, zooming hides your hands.
+	"hideHands": true,
 	// Enables Smooth Transitions when zooming in and out.
-	"smoothTransition": false,
+	"smoothTransition": true,
 	"advancedSmoothTransSettings": { 
 		// The divisor used while applying smoothing, smaller number zooms faster, bigger number zoom slower.
 		"smoothDivisor": 128,

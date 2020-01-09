@@ -5,7 +5,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "TODO"
+            "text": "After death, you have the option to become a demon. If you do so, you have to possess any mob, excluding bosses. You then become this mob, and have to keep living using their body. Once their body dies, you have to possess another mob."
+        },
+        {
+            "type": "text",
+            "text": "To revert back to a human, simply drink a potion of weakness and eat a golden apple, similar to how a zombie villager would."
         }
     ]
 }

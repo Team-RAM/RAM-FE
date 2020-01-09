@@ -64,7 +64,8 @@
 		"displayFavoritesTooltip": true,
 		// Declares whether favorites will be searched.
 		"searchFavorites": true,
-		"entrySize": 1.0
+		"entrySize": 1.0,
+		"useCompactTabs": true
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.

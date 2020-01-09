@@ -18,3 +18,5 @@ While flying with an Elytra or Shulker Charm, you don't mine any slower than if 
 In multiplayer, only one person needs to sleep to pass the night.
 Trouble getting Phantoms to spawn? Bats also drop membranes, but are more difficult to hit.
 To stop a mob from making sound, take a name tag and name it "silence me", then right click it on the mob.
+You can walk through leaves.
+To obtain a copy of the guide, simply put a single dirt in a crafting grid.
