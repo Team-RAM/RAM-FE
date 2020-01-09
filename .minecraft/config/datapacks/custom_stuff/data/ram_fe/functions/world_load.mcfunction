@@ -24,5 +24,5 @@ carpet commandSpawn false
 carpet commandTick false
 carpet commandTrackAI false
 
-# scoreboards
+# Shulkerprotect
 scoreboard objectives add _ramfe_sc_power dummy
