@@ -1,6 +1,11 @@
-# This is the configuration file for Lithium.
-#
-# You can find information on editing this file and all the available options here:
-# https://github.com/jellysquid3/Lithium/wiki/Configuration-File
-#
-# By default, this file will be empty except for this notice.
+[redstone]
+# If true, Redstone dust will use an optimized update system which avoids unnecessary block updates (fixing MC-81098). 
+# Additionally, the update order of redstone dust is made deterministic (fixing MC-11193).
+# These patches will provide a huge improvement when updating dust, but might affect contraptions which rely on 
+# the non-deterministic update order of dust (known as "locational contraptions").
+# This is unfortunate and goes against the strongest belief of the mod (being that we don't change vanilla behaviours) 
+# but it is impossible to maintain behaviour which is non-deterministic. Even though this behaviour is often said to be 
+# consistent given the same location in a world, this is only a happy coincidence. 
+# The implementation of Set (which is the type responsible for ordering these updates) makes no guarantees about its order, 
+# meaning that a simple update to Java or the usage of another JVM could result in the order being changed.
+use_redstone_dust_optimizations = true
