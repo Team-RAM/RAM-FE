@@ -38,12 +38,11 @@
 		"favoriteKeybind": null
 	},
 	"appearance": { 
+		"recipeScreenType": "VILLAGER",
 		// The ordering of the items on the item panel.
 		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the appearance of REI windows.
 		"darkTheme": true,
-		// The ordering of the items on the item panel.
-		"recipeScreenType": "VILLAGER",
 		// Declares the position of the search field.
 		"searchFieldLocation": "CENTER",
 		// Declares the position of the item list panel.
