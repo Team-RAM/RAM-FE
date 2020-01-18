@@ -8,4 +8,5 @@
 # consistent given the same location in a world, this is only a happy coincidence. 
 # The implementation of Set (which is the type responsible for ordering these updates) makes no guarantees about its order, 
 # meaning that a simple update to Java or the usage of another JVM could result in the order being changed.
-use_redstone_dust_optimizations = true
+use_redstone_dust_optimizations = false
+# False until Carpet's patches can be disabled

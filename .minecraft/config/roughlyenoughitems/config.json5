@@ -94,6 +94,6 @@
 	"performance": { 
 		// Whether REI should render entry's enchantment glint
 		"renderEntryEnchantmentGlint": false,
-		"fastEntryRendering": false
+		"newFastEntryRendering": true
 	}
 }
