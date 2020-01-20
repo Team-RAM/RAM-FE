@@ -1,3 +1,6 @@
+[physics]
+use_swept_collision_search = false
+
 [redstone]
 # If true, Redstone dust will use an optimized update system which avoids unnecessary block updates (fixing MC-81098). 
 # Additionally, the update order of redstone dust is made deterministic (fixing MC-11193).

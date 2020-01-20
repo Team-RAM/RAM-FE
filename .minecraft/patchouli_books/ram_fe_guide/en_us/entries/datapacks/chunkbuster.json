@@ -1,0 +1,13 @@
+{
+    "name": "ChunkBuster",
+    "icon": "minecraft:command_block",
+    "category": "datapacks",
+    "pages": [
+        {
+            "type": "link",
+            "text": "This datapack allows you to pregen the world",
+            "url": "https://github.com/Arcensoth/chunkbuster-datapack#usage",
+            "link_text": "Guide"
+        }
+    ]
+}
