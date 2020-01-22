@@ -18,7 +18,7 @@
 	// Stop excavating when tool breaks
 	"stopOnToolBreak": true,
 	// Should tool take durability
-	"toolDuribility": true,
+	"toolDurability": true,
 	// Should player get exhaustion
 	"playerExhaustion": true
 }

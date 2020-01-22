@@ -35,7 +35,11 @@
 			"keyCode": "key.keyboard.unknown",
 			"modifier": 0
 		},
-		"favoriteKeybind": null
+		"favoriteKeybind": null,
+		"exportImageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		}
 	},
 	"appearance": { 
 		"recipeScreenType": "VILLAGER",

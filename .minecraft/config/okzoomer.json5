@@ -17,6 +17,8 @@
 	},
 	// Enables the ability to toggle zooming.
 	"zoomToggle": false,
+	// Reduces the mouse sensitivity when zooming.
+	"reduceSensitivity": false,
 	/* The multiplier applied to the FOV when zooming.
 	   1.25 is the recommended maximum, anything above that will break the FOV.
 	*/
