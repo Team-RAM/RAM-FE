@@ -16,6 +16,7 @@
 *.disabled
 *.png
 /.minecraft/mods/mamiyaotaru/voxelmap/cache/
+/.minecraft/config/minihud/*.json
 natives/
 .idea/
 

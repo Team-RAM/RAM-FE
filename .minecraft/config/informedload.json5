@@ -6,7 +6,8 @@
 	"printEntrypoints": false,
 	// Entrypoints to exclude from display (Will happen before screen opens)
 	"excludedEntrypoints": [ 
-],
+		"io.github.haykam821.debrand.Main"
+	],
 	// Model add progress bars
 	"splash_splitProgressBars": "SPLIT",
 	// Use 1 to keep the status on the main bar.
